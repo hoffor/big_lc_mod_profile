@@ -6,3 +6,5 @@ latest changes are [here](https://github.com/hoffr/big_lc_mod_profile/commit/9e1
 full change history (starting recently) is [here](https://github.com/hoffr/big_lc_mod_profile/commits/main/)
 
 latest mod manager profile code is [here](https://github.com/hoffr/big_lc_mod_profile/blob/main/profile_code.txt)
+
+small issue with this is that it doesn't track which mods are enabled/disabled, only ones which are installed
