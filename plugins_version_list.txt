@@ -33,6 +33,7 @@ FlipMods-ReservedFlashlightSlot_2.0.8
 FlipMods-ReservedItemSlotCore_2.0.35
 FlipMods-TooManyEmotes_2.2.5
 fumiko-CullFactory_1.3.6
+Fusition-BetterSpectate_1.0.0
 giosuel-Imperium_CRC32-a72201e2
 Hardy-LCMaxSoundsFix_1.2.0
 hoffr-Food_Scraps_And_Walkie_0.0.5
@@ -55,7 +56,7 @@ lukeprime-TogglePersonalScanner_CRC32-0794f86a
 Lusacan1-CoilHeadMod_CRC32-77054100
 Magic_Wesley-Gratar_3.0.11
 Magic_Wesley-Junic_2.0.8
-Magic_Wesley-WesleysInteriors_1.3.7
+Magic_Wesley-WesleysInteriors_1.3.8
 malco-Lategame_Upgrades_3.10.1
 matsuura-HealthMetrics_1.0.2
 mattymatty-AsyncLoggers_1.6.3
