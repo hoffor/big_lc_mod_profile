@@ -34,7 +34,7 @@ FlipMods-ReservedItemSlotCore_2.0.35
 FlipMods-TooManyEmotes_2.2.5
 fumiko-CullFactory_1.3.6
 Fusition-BetterSpectate_1.0.0
-giosuel-Imperium_CRC32-a72201e2
+giosuel-Imperium_0.2.7_DISABLED
 Hardy-LCMaxSoundsFix_1.2.0
 hoffr-Food_Scraps_And_Walkie_0.0.5
 hoffr-QuieterRobotSoundsV50Beta_0.0.1
@@ -52,8 +52,8 @@ LethalMatt-Bozoros_1.0.1
 LeytomSP-Rotel_0.1.0
 Lordfirespeed-OdinSerializer_2022.11.9
 Luigi-Nintendo_Hats_1.6.0
-lukeprime-TogglePersonalScanner_CRC32-0794f86a
-Lusacan1-CoilHeadMod_CRC32-77054100
+lukeprime-TogglePersonalScanner_1.0.3_DISABLED
+Lusacan1-CoilHeadMod_1.0.0_DISABLED
 Magic_Wesley-Gratar_3.0.11
 Magic_Wesley-Junic_2.0.8
 Magic_Wesley-WesleysInteriors_1.3.8
