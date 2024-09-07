@@ -221,6 +221,17 @@
         "mapConfigurations": []
       },
       {
+        "enemyId": "LethalCompany.Maneater",
+        "activeSkins": [],
+        "defaultConfiguration": {
+          "mapId": "",
+          "outdoorVanillaFrequency": 0.0,
+          "indoorVanillaFrequency": 0.0,
+          "skinDistribution": []
+        },
+        "mapConfigurations": []
+      },
+      {
         "enemyId": "LethalCompany.Manticoil",
         "activeSkins": [],
         "defaultConfiguration": {
