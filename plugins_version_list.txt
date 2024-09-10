@@ -1,12 +1,12 @@
-33mamaster-LifetimeCruiserWarranty_1.3.0
 AinaVT-LethalConfig_1.4.2
 AmesBoys-ImmortalSnail_0.7.5
 anormaltwig-LateCompany_1.0.18
 AntlerShed-EnemySkinKit_1.2.4
 AntlerShed-EnemySkinRegistry_1.4.3
+Aper-LilSplitModel_0.1.0
 Aubarino-AubPiggybackAPI_1.0.1
 Aubarino-Sentinel_Mod_1.1.0
-AudioKnight-StarlancerAIFix_3.8.1
+AudioKnight-StarlancerAIFix_3.8.2
 Autumnis-HarvestMoons_1.4.8
 Badham_Mods-SCPFoundationDungeon_4.3.4
 BananaPuncher714-LethalQuantities_1.2.9
@@ -14,7 +14,8 @@ Bibendi-AEIOUCompany_1.3.7
 BigBadPigeon-PigeonsCosmeticsAddon_1.3.0
 Bobbie-NAudio_2.2.2
 Bobbie-UniTask_2.5.0
-ButteryStancakes-EnemySoundFixes_1.5.8
+BunyaPineTree-ModelReplacementAPI_2.4.10
+ButteryStancakes-EnemySoundFixes_1.5.9
 Canigou_Sudio-Sonic_Scraps_1.6.1
 Clementinise-CustomSounds_2.3.2
 COREsEND-A_Rather_Silly_Coil_Head_1.1.0
@@ -30,9 +31,9 @@ Evaisa-LethalLib_0.16.1
 Evaisa-LethalThings_0.10.6
 FateX42-Caprisun_1.0.0
 FlipMods-ReservedFlashlightSlot_2.0.8
-FlipMods-ReservedItemSlotCore_2.0.35
+FlipMods-ReservedItemSlotCore_2.0.36
 FlipMods-TooManyEmotes_2.2.6
-fumiko-CullFactory_1.3.8
+fumiko-CullFactory_1.3.12
 Fusition-BetterSpectate_1.0.0
 giosuel-Imperium_0.2.7_DISABLED
 Hardy-LCMaxSoundsFix_1.2.0
@@ -43,7 +44,7 @@ IAmBatby-LethalToolbox_1.0.4
 IntegrityChaos-Diversity_2.1.0
 IntegrityChaos-GraphicsAPI_1.0.0
 IntegrityChaos-LCCutscene_1.0.0
-JacobG5-JLL_1.5.0
+JacobG5-JLL_1.5.2
 Jordo-NeedyCats_1.2.2
 Keldos-RatScrap_1.1.1
 kerotein-TeleporterItems_1.0.3
@@ -59,7 +60,7 @@ Magic_Wesley-Junic_2.0.8
 Magic_Wesley-WesleysInteriors_1.3.8
 malco-Lategame_Upgrades_3.10.1
 matsuura-HealthMetrics_1.0.2
-mattymatty-AsyncLoggers_1.6.3
+mattymatty-AsyncLoggers_2.1.2
 MaxWasUnavailable-LethalModDataLib_1.2.2
 MMHOOK_CRC32-6c32ec87
 MoonJuice-RubberChicken_1.0.3
@@ -95,7 +96,7 @@ SlushyRH-FreeeeeeMoooooons_1.0.1
 SolidStone-SolidLib_1.2.2
 Spyci-CozyImprovements_1.2.2
 sunnobunno-YippeeMod_1.2.4
-SurfacedTeam-Surfaced_1.3.1
+SurfacedTeam-Surfaced_1.3.2
 SZAKI-EnemyFix_1.0.0
 Taboo-UndetectableKitty_0.0.1
 taffyko-NiceChat_1.2.6
@@ -104,7 +105,8 @@ WhiteSpike-Custom_Item_Behaviour_Library_1.2.4
 WhiteSpike-Interactive_Terminal_API_1.1.3
 WhiteSpike-Lategame_Company_Cruiser_Upgrades_1.1.0
 WhiteSpike-Shopping_Cart_1.0.1
-xilophor-LethalNetworkAPI_3.2.1
+x753-More_Suits_1.4.3
+xilophor-LethalNetworkAPI_3.3.0
 XuXiaolan-ImmersiveScrap_1.3.0
 XuXiaolan-XuMiscTools_1.1.0
 Yorimor-CustomStoryLogs_1.4.5
