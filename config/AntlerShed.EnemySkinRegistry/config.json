@@ -2,6 +2,7 @@
   "knownSkins": [
     "COREsEND.PopperCoilhead",
     "COREsEND.PopperCoilheadNoSilly",
+    "COREsEND.CoilheadSillySounds",
     "COREsEND.MeatStalker"
   ],
   "knownMoons": [
@@ -111,13 +112,19 @@
         "enemyId": "LethalCompany.Coilhead",
         "activeSkins": [
           "COREsEND.PopperCoilhead",
-          "COREsEND.PopperCoilheadNoSilly"
+          "COREsEND.PopperCoilheadNoSilly",
+          "COREsEND.CoilheadSillySounds"
         ],
         "defaultConfiguration": {
           "mapId": "",
           "outdoorVanillaFrequency": 0.0,
           "indoorVanillaFrequency": 0.0,
           "skinDistribution": [
+            {
+              "skinId": "COREsEND.CoilheadSillySounds",
+              "indoorFrequency": 0.0,
+              "outdoorFrequency": 0.0
+            },
             {
               "skinId": "COREsEND.PopperCoilhead",
               "indoorFrequency": 1.0,
