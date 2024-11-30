@@ -3,7 +3,9 @@
     "COREsEND.PopperCoilhead",
     "COREsEND.PopperCoilheadNoSilly",
     "COREsEND.CoilheadSillySounds",
-    "COREsEND.MeatStalker"
+    "COREsEND.MeatStalker",
+    "LethalMatt.Bozoros.ClownGiant",
+    "LethalMatt.Bozoros.GoofyPuffer"
   ],
   "knownMoons": [
     "41 Experimentation",
@@ -17,8 +19,7 @@
     "20 Adamance",
     "68 Artifice",
     "5 Embrion",
-    "Black Mesa",
-    "Bozoros",
+    "823 Bozoros",
     "147 Gratar",
     "96 Cambrian",
     "132 Fray",
@@ -26,6 +27,7 @@
     "133 Temper",
     "84 Junic",
     "70 Pestilence",
+    "Black Mesa",
     "127 Eve-M",
     "71 Sector-0",
     "692 Seichi",
@@ -163,14 +165,47 @@
       },
       {
         "enemyId": "LethalCompany.ForestKeeper",
-        "activeSkins": [],
+        "activeSkins": [
+          "LethalMatt.Bozoros.ClownGiant"
+        ],
         "defaultConfiguration": {
           "mapId": "",
           "outdoorVanillaFrequency": 0.0,
           "indoorVanillaFrequency": 0.0,
-          "skinDistribution": []
+          "skinDistribution": [
+            {
+              "skinId": "LethalMatt.Bozoros.ClownGiant",
+              "indoorFrequency": 0.0,
+              "outdoorFrequency": 0.0
+            }
+          ]
         },
-        "mapConfigurations": []
+        "mapConfigurations": [
+          {
+            "mapId": "circus",
+            "outdoorVanillaFrequency": 0.0,
+            "indoorVanillaFrequency": 0.0,
+            "skinDistribution": [
+              {
+                "skinId": "LethalMatt.Bozoros.ClownGiant",
+                "indoorFrequency": 1.0,
+                "outdoorFrequency": 1.0
+              }
+            ]
+          },
+          {
+            "mapId": "fun",
+            "outdoorVanillaFrequency": 0.0,
+            "indoorVanillaFrequency": 0.0,
+            "skinDistribution": [
+              {
+                "skinId": "LethalMatt.Bozoros.ClownGiant",
+                "indoorFrequency": 1.0,
+                "outdoorFrequency": 1.0
+              }
+            ]
+          }
+        ]
       },
       {
         "enemyId": "LethalCompany.GhostGirl",
@@ -295,14 +330,47 @@
       },
       {
         "enemyId": "LethalCompany.SporeLizard",
-        "activeSkins": [],
+        "activeSkins": [
+          "LethalMatt.Bozoros.GoofyPuffer"
+        ],
         "defaultConfiguration": {
           "mapId": "",
           "outdoorVanillaFrequency": 0.0,
           "indoorVanillaFrequency": 0.0,
-          "skinDistribution": []
+          "skinDistribution": [
+            {
+              "skinId": "LethalMatt.Bozoros.GoofyPuffer",
+              "indoorFrequency": 0.0,
+              "outdoorFrequency": 0.0
+            }
+          ]
         },
-        "mapConfigurations": []
+        "mapConfigurations": [
+          {
+            "mapId": "circus",
+            "outdoorVanillaFrequency": 0.0,
+            "indoorVanillaFrequency": 0.0,
+            "skinDistribution": [
+              {
+                "skinId": "LethalMatt.Bozoros.GoofyPuffer",
+                "indoorFrequency": 1.0,
+                "outdoorFrequency": 1.0
+              }
+            ]
+          },
+          {
+            "mapId": "fun",
+            "outdoorVanillaFrequency": 0.0,
+            "indoorVanillaFrequency": 0.0,
+            "skinDistribution": [
+              {
+                "skinId": "LethalMatt.Bozoros.GoofyPuffer",
+                "indoorFrequency": 1.0,
+                "outdoorFrequency": 1.0
+              }
+            ]
+          }
+        ]
       },
       {
         "enemyId": "LethalCompany.Thumper",
