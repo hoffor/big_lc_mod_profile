@@ -1,5 +1,5 @@
 # big_lc_mod_profile
-just a place to track changes to the mod profile i maintain for me n friends
+just a place to track changes to the mod profile i maintain for me n friends. feel free to enjoy this mod list no matter who you are! it's designed to be a thoughtful and balanced experience, as long as your PC has the RAM for it lol
 
 simple changelogs and the latest profile code are all [here](https://github.com/hoffor/big_lc_mod_profile/releases)
 
