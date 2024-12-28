@@ -3,9 +3,9 @@
     "COREsEND.PopperCoilhead",
     "COREsEND.PopperCoilheadNoSilly",
     "COREsEND.CoilheadSillySounds",
-    "COREsEND.MeatStalker",
+    "LethalMatt.Bozoros.GoofyPuffer",
     "LethalMatt.Bozoros.ClownGiant",
-    "LethalMatt.Bozoros.GoofyPuffer"
+    "LethalMatt.Bozoros.SantaButler"
   ],
   "knownMoons": [
     "41 Experimentation",
@@ -19,15 +19,16 @@
     "20 Adamance",
     "68 Artifice",
     "5 Embrion",
+    "57 Asteroid-13",
     "58 Asteroid-14",
     "44 Atlantica",
     "196 Baykal",
-    "823 Bozoros",
     "61 Espira",
     "25 Fission-C",
     "556 Flicker",
     "147 Gratar",
     "84 Junic",
+    "823 Bozoros",
     "6 Mazon",
     "70 Pestilence",
     "76 Acidir",
@@ -64,20 +65,12 @@
       },
       {
         "enemyId": "LethalCompany.Bracken",
-        "activeSkins": [
-          "COREsEND.MeatStalker"
-        ],
+        "activeSkins": [],
         "defaultConfiguration": {
           "mapId": "",
           "outdoorVanillaFrequency": 0.0,
           "indoorVanillaFrequency": 0.0,
-          "skinDistribution": [
-            {
-              "skinId": "COREsEND.MeatStalker",
-              "indoorFrequency": 1.0,
-              "outdoorFrequency": 1.0
-            }
-          ]
+          "skinDistribution": []
         },
         "mapConfigurations": []
       },
@@ -94,14 +87,47 @@
       },
       {
         "enemyId": "LethalCompany.Butler",
-        "activeSkins": [],
+        "activeSkins": [
+          "LethalMatt.Bozoros.SantaButler"
+        ],
         "defaultConfiguration": {
           "mapId": "",
           "outdoorVanillaFrequency": 0.0,
           "indoorVanillaFrequency": 0.0,
-          "skinDistribution": []
+          "skinDistribution": [
+            {
+              "skinId": "LethalMatt.Bozoros.SantaButler",
+              "indoorFrequency": 0.0,
+              "outdoorFrequency": 0.0
+            }
+          ]
         },
-        "mapConfigurations": []
+        "mapConfigurations": [
+          {
+            "mapId": "fun",
+            "outdoorVanillaFrequency": 0.0,
+            "indoorVanillaFrequency": 0.0,
+            "skinDistribution": [
+              {
+                "skinId": "LethalMatt.Bozoros.SantaButler",
+                "indoorFrequency": 1.0,
+                "outdoorFrequency": 1.0
+              }
+            ]
+          },
+          {
+            "mapId": "jolly",
+            "outdoorVanillaFrequency": 0.0,
+            "indoorVanillaFrequency": 0.0,
+            "skinDistribution": [
+              {
+                "skinId": "LethalMatt.Bozoros.SantaButler",
+                "indoorFrequency": 1.0,
+                "outdoorFrequency": 1.0
+              }
+            ]
+          }
+        ]
       },
       {
         "enemyId": "LethalCompany.CircuitBees",
