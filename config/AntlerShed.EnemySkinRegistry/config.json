@@ -3,6 +3,9 @@
     "COREsEND.PopperCoilhead",
     "COREsEND.PopperCoilheadNoSilly",
     "COREsEND.CoilheadSillySounds",
+    "COREsEND.PopperCoilheadJolly",
+    "COREsEND.PopperCoilheadNoJolly",
+    "COREsEND.CoilheadJollySounds",
     "LethalMatt.Bozoros.GoofyPuffer",
     "LethalMatt.Bozoros.ClownGiant",
     "LethalMatt.Bozoros.SantaButler"
@@ -27,6 +30,7 @@
     "25 Fission-C",
     "556 Flicker",
     "147 Gratar",
+    "46 Infernis",
     "84 Junic",
     "823 Bozoros",
     "6 Mazon",
@@ -145,13 +149,21 @@
         "activeSkins": [
           "COREsEND.PopperCoilhead",
           "COREsEND.PopperCoilheadNoSilly",
-          "COREsEND.CoilheadSillySounds"
+          "COREsEND.CoilheadSillySounds",
+          "COREsEND.PopperCoilheadJolly",
+          "COREsEND.PopperCoilheadNoJolly",
+          "COREsEND.CoilheadJollySounds"
         ],
         "defaultConfiguration": {
           "mapId": "",
           "outdoorVanillaFrequency": 0.0,
           "indoorVanillaFrequency": 0.0,
           "skinDistribution": [
+            {
+              "skinId": "COREsEND.CoilheadJollySounds",
+              "indoorFrequency": 0.0,
+              "outdoorFrequency": 0.0
+            },
             {
               "skinId": "COREsEND.CoilheadSillySounds",
               "indoorFrequency": 0.0,
@@ -161,6 +173,16 @@
               "skinId": "COREsEND.PopperCoilhead",
               "indoorFrequency": 1.0,
               "outdoorFrequency": 1.0
+            },
+            {
+              "skinId": "COREsEND.PopperCoilheadJolly",
+              "indoorFrequency": 0.0,
+              "outdoorFrequency": 0.0
+            },
+            {
+              "skinId": "COREsEND.PopperCoilheadNoJolly",
+              "indoorFrequency": 0.0,
+              "outdoorFrequency": 0.0
             },
             {
               "skinId": "COREsEND.PopperCoilheadNoSilly",
