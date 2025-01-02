@@ -19,7 +19,7 @@ ButteryStancakes-BarberFixes_1.2.2
 ButteryStancakes-EnemySoundFixes_1.6.0
 Canigou_Sudio-Sonic_Scraps_1.6.1
 Clementinise-CustomSounds_2.3.2
-COREsEND-A_Rather_Silly_Coil_Head_1.3.0
+COREsEND-A_Rather_Silly_Coil_Head_1.3.1
 COREsEND-Castellum_Carnis_1.0.3
 CustomSounds_CRC32-65ea44bf
 Dantor-Dantors_Mental_Hospital_1.2.2
@@ -48,7 +48,7 @@ FateX42-Caprisun_1.0.0
 FlipMods-ReservedFlashlightSlot_2.0.8
 FlipMods-ReservedItemSlotCore_2.0.39
 FlipMods-TooManyEmotes_2.2.14
-fumiko-CullFactory_1.6.2
+fumiko-CullFactory_1.6.3
 Fusition-BetterSpectate_1.0.0
 Generic_GMD-Generic_Interiors_1.6.0
 giosuel-Imperium_0.2.8_DISABLED
@@ -68,7 +68,7 @@ Keldos-RatScrap_1.1.1
 kerotein-TeleporterItems_1.0.3
 Kittenji-Groan_Tube_Scrap_1.0.4
 LameGamerTime-PestilenceMoon_1.1.1
-LethalMatt-Bozoros_2.2.4
+LethalMatt-Bozoros_2.2.5
 LeytomSP-Rotel_0.1.0
 Lordfirespeed-OdinSerializer_2022.11.9
 Luigi-Nintendo_Hats_1.6.0
@@ -129,6 +129,7 @@ SZAKI-EnemyFix_1.0.0
 Taboo-UndetectableKitty_0.0.1
 taffyko-NiceChat_1.2.7
 tinyhoot-ShipLoot_1.1.0
+toastUnlimited-SillyGiftForMellana_1.1.0
 Tolian-Tomb_0.2.9
 WhiteSpike-Custom_Item_Behaviour_Library_1.2.6
 WhiteSpike-Interactive_Terminal_API_1.2.0
