@@ -20,7 +20,7 @@ ButteryStancakes-EnemySoundFixes_1.6.0
 Canigou_Sudio-Sonic_Scraps_1.6.1
 Clementinise-CustomSounds_2.3.2
 COREsEND-A_Rather_Silly_Coil_Head_1.3.1
-COREsEND-Castellum_Carnis_1.0.3
+COREsEND-Castellum_Carnis_1.0.4
 CustomSounds_CRC32-65ea44bf
 Dantor-Dantors_Mental_Hospital_1.2.2
 DarthLilo-LevelMusicLib_1.0.2
@@ -40,7 +40,7 @@ DiFFoZ-LethalPerformance_0.5.0
 DockMonster-HatFortress2_1.5.0
 egg_node-Eggcessories_1.20.0
 EliteMasterEric-WackyCosmetics_2.0.0
-enmaai0737-SandStar_1.0.2
+enmaai0737-SandStar_1.0.3
 Evaisa-FixPluginTypesSerialization_1.1.1
 Evaisa-HookGenPatcher_0.0.5
 Evaisa-LethalLib_0.16.2
@@ -56,7 +56,7 @@ giosuel-Imperium_0.2.8_DISABLED
 Hamunii-AutoHookGenPatcher_1.0.4
 Hamunii-DetourContext_Dispose_Fix_1.0.3
 Hardy-LCMaxSoundsFix_1.2.0
-hoffr-AutoMessage_1.0.0
+hoffr-AutoMessage_1.0.1
 hoffr-Food_Scraps_And_Walkie_0.0.7
 hoffr-QuieterRobotSoundsV50Beta_0.0.1
 IAmBatby-LethalLevelLoader_1.3.13
@@ -98,7 +98,7 @@ NomnomAB-RollingGiant_2.6.0
 notnotnotswipez-MoreCompany_1.11.0
 pacoito-StoreRotationConfig_2.5.0
 Piggy-LC_Office_1.2.7
-Piggy-LC_Shrimp_1.0.1
+Piggy-LC_Shrimp_1.0.4
 Piggy-Piggys_Variety_Mod_1.3.17
 projectbots-MoonUnlockUnhide_1.2.1
 quackandcheese-ToggleMute_1.3.1
@@ -113,7 +113,7 @@ RosiePies-Gordion_Sect0_2.3.3
 RosiePies-RoseLib_1.0.1
 RosiePies-Sector0_Interior_2.1.4
 Rune580-LethalCompany_InputUtils_0.7.7
-s1ckboy-Seichi_0.9.11
+s1ckboy-Seichi_0.9.12
 Scintesto-Monster_Plushies_1.2.9
 Sconeys-Gnomes_2.1.19
 scoopy-Scoopys_Variety_Mod_1.2.0
@@ -148,4 +148,4 @@ Yorimor-CustomStoryLogs_1.4.5
 Zaggy1024-OpenBodyCams_3.0.3
 Zaggy1024-PathfindingLagFix_1.4.0
 zealsprince-Locker_1.6.1
-Zigzag-ChillaxScraps_1.5.4
+Zigzag-ChillaxScraps_1.5.5
