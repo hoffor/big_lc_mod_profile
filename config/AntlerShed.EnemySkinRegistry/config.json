@@ -1,11 +1,5 @@
 {
   "knownSkins": [
-    "COREsEND.PopperCoilhead",
-    "COREsEND.PopperCoilheadNoSilly",
-    "COREsEND.CoilheadSillySounds",
-    "COREsEND.PopperCoilheadJolly",
-    "COREsEND.PopperCoilheadNoJolly",
-    "COREsEND.CoilheadJollySounds",
     "LethalMatt.Bozoros.GoofyPuffer",
     "LethalMatt.Bozoros.ClownGiant",
     "LethalMatt.Bozoros.SantaButler"
@@ -22,20 +16,20 @@
     "20 Adamance",
     "68 Artifice",
     "5 Embrion",
-    "57 Asteroid-13",
-    "58 Asteroid-14",
-    "44 Atlantica",
     "196 Baykal",
     "61 Espira",
-    "25 Fission-C",
     "556 Flicker",
+    "823 Bozoros",
+    "76 Acidir",
+    "57 Asteroid-13",
+    "58 Hyve",
+    "44 Atlantica",
+    "25 Fission-C",
     "147 Gratar",
     "46 Infernis",
     "84 Junic",
-    "823 Bozoros",
     "6 Mazon",
     "70 Pestilence",
-    "76 Acidir",
     "186 Praetor",
     "127 Eve-M",
     "71 Sector-0",
@@ -118,18 +112,6 @@
                 "outdoorFrequency": 1.0
               }
             ]
-          },
-          {
-            "mapId": "jolly",
-            "outdoorVanillaFrequency": 0.0,
-            "indoorVanillaFrequency": 0.0,
-            "skinDistribution": [
-              {
-                "skinId": "LethalMatt.Bozoros.SantaButler",
-                "indoorFrequency": 1.0,
-                "outdoorFrequency": 1.0
-              }
-            ]
           }
         ]
       },
@@ -146,50 +128,12 @@
       },
       {
         "enemyId": "LethalCompany.Coilhead",
-        "activeSkins": [
-          "COREsEND.PopperCoilhead",
-          "COREsEND.PopperCoilheadNoSilly",
-          "COREsEND.CoilheadSillySounds",
-          "COREsEND.PopperCoilheadJolly",
-          "COREsEND.PopperCoilheadNoJolly",
-          "COREsEND.CoilheadJollySounds"
-        ],
+        "activeSkins": [],
         "defaultConfiguration": {
           "mapId": "",
           "outdoorVanillaFrequency": 0.0,
           "indoorVanillaFrequency": 0.0,
-          "skinDistribution": [
-            {
-              "skinId": "COREsEND.CoilheadJollySounds",
-              "indoorFrequency": 0.0,
-              "outdoorFrequency": 0.0
-            },
-            {
-              "skinId": "COREsEND.CoilheadSillySounds",
-              "indoorFrequency": 0.0,
-              "outdoorFrequency": 0.0
-            },
-            {
-              "skinId": "COREsEND.PopperCoilhead",
-              "indoorFrequency": 1.0,
-              "outdoorFrequency": 1.0
-            },
-            {
-              "skinId": "COREsEND.PopperCoilheadJolly",
-              "indoorFrequency": 0.0,
-              "outdoorFrequency": 0.0
-            },
-            {
-              "skinId": "COREsEND.PopperCoilheadNoJolly",
-              "indoorFrequency": 0.0,
-              "outdoorFrequency": 0.0
-            },
-            {
-              "skinId": "COREsEND.PopperCoilheadNoSilly",
-              "indoorFrequency": 0.0,
-              "outdoorFrequency": 0.0
-            }
-          ]
+          "skinDistribution": []
         },
         "mapConfigurations": []
       },
