@@ -1,5 +1,5 @@
 299792458-MoreMoneyStart_3.0.1
-AinaVT-LethalConfig_1.4.4
+AinaVT-LethalConfig_1.4.5
 Alice-DungeonGenerationPlus_1.3.4
 AmesBoys-ImmortalSnail_0.7.5
 anormaltwig-LateCompany_1.0.18
@@ -13,6 +13,7 @@ BananaPuncher714-LethalQuantities_1.2.9
 Bibendi-AEIOUCompany_1.3.7
 BigBadPigeon-PigeonsCosmeticsAddon_1.3.0
 bigmcnugget-VanillaContentExpansion_0.1.8
+Bobbie-FixRPCLag_1.0.1
 Bobbie-NAudio_2.2.2
 Bobbie-UniTask_2.5.0
 BunyaPineTree-ModelReplacementAPI_2.4.12
@@ -27,7 +28,7 @@ DarthLilo-LevelMusicLib_1.0.2
 DarthLilo-WeatherBonuses_1.0.0
 DemonMae-Baykal_moon_2.0.0
 DemonMae-Chizra_Temple_Interior_1.4.1
-DemonMae-Espira_moon_2.0.0
+DemonMae-Espira_moon_2.1.0
 DemonMae-Flicker_moon_1.1.5
 DemonMae-Gothic_Monastery_Interior_1.3.7
 DemonMae-Gray_Apartments_Interior_1.1.2
@@ -46,8 +47,8 @@ Evaisa-HookGenPatcher_0.0.5
 Evaisa-LethalLib_0.16.2
 Evaisa-LethalThings_0.10.7
 FateX42-Caprisun_1.0.0
-FlipMods-ReservedFlashlightSlot_2.0.9
-FlipMods-ReservedItemSlotCore_2.0.41
+FlipMods-ReservedFlashlightSlot_2.0.10
+FlipMods-ReservedItemSlotCore_2.0.42
 FlipMods-TooManyEmotes_2.2.14
 fumiko-CullFactory_1.7.0
 Fusition-BetterSpectate_1.0.0
@@ -56,7 +57,7 @@ giosuel-Imperium_0.2.8_DISABLED
 Hamunii-AutoHookGenPatcher_1.0.4
 Hamunii-DetourContext_Dispose_Fix_1.0.3
 Hardy-LCMaxSoundsFix_1.2.0
-hoffr-AutoMessage_1.1.0
+hoffr-AutoMessage_1.1.1
 hoffr-Food_Scraps_And_Walkie_0.0.7
 hoffr-QuieterRobotSoundsV50Beta_0.0.1
 IAmBatby-LethalLevelLoader_1.4.8
@@ -72,6 +73,7 @@ Kittenji-Groan_Tube_Scrap_1.0.4
 LameGamerTime-PestilenceMoon_1.2.0
 LethalMatt-Bozoros_2.3.1
 LeytomSP-Rotel_0.1.0
+linkoid-DissonanceLagFix_1.0.0
 Lordfirespeed-OdinSerializer_2022.11.9
 Luigi-Nintendo_Hats_1.6.0
 lukeprime-TogglePersonalScanner_1.0.3_DISABLED
@@ -83,7 +85,7 @@ Magic_Wesley-Fission_3.0.0
 Magic_Wesley-Gratar_4.0.0
 Magic_Wesley-Infernis_5.0.0
 Magic_Wesley-Junic_3.0.0
-Magic_Wesley-WesleysInteriors_2.0.8
+Magic_Wesley-WesleysInteriors_2.0.9
 matsuura-HealthMetrics_1.0.2
 mattymatty-AsyncLoggers_2.1.3
 MaxWasUnavailable-LethalModDataLib_1.2.2
@@ -130,7 +132,8 @@ taffyko-NiceChat_1.2.7
 tinyhoot-ShipLoot_1.1.0
 toastUnlimited-SillyGiftForMellana_1.1.1
 Tolian-Tomb_0.3.0
-VirusTLNR-MaskedFixes_0.0.1
+VirusTLNR-MaskedFixes_0.0.3
+VirusTLNR-MaskedInvisFix_0.0.2
 WhiteSpike-Custom_Item_Behaviour_Library_1.2.6
 WhiteSpike-Interactive_Terminal_API_1.2.0
 WhiteSpike-Shopping_Cart_1.0.2
@@ -143,7 +146,7 @@ XuXiaolan-XuMiscTools_1.3.1
 YaBoiDucki-men_stalker_2.5.5
 Yorimor-CustomStoryLogs_1.4.6
 Zaggy1024-OpenBodyCams_3.0.3
-Zaggy1024-PathfindingLagFix_2.0.1
+Zaggy1024-PathfindingLagFix_2.1.0
 Zaggy1024-PathfindingLib_0.0.14
 zealsprince-Locker_1.6.1
 Zigzag-ChillaxScraps_1.5.6
