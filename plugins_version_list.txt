@@ -1,6 +1,6 @@
 299792458-MoreMoneyStart_3.0.1
-AinaVT-LethalConfig_1.4.5
-Alice-DungeonGenerationPlus_1.3.4
+AinaVT-LethalConfig_1.4.6
+Alice-DungeonGenerationPlus_1.4.0
 AmesBoys-ImmortalSnail_0.7.5
 anormaltwig-LateCompany_1.0.18
 AntlerShed-EnemySkinKit_1.3.4
@@ -21,18 +21,18 @@ ButteryStancakes-BarberFixes_1.3.0
 ButteryStancakes-EnemySoundFixes_1.6.4
 Canigou_Sudio-Sonic_Scraps_1.6.1
 Clementinise-CustomSounds_2.3.2
-COREsEND-Castellum_Carnis_1.0.4
+COREsEND-Castellum_Carnis_1.0.5
 CustomSounds_CRC32-65ea44bf
 Dantor-Dantors_Mental_Hospital_1.3.0
 DarthLilo-LevelMusicLib_1.0.2
 DarthLilo-WeatherBonuses_1.0.0
-DemonMae-Baykal_moon_2.0.0
+DemonMae-Baykal_moon_2.0.1
 DemonMae-Chizra_Temple_Interior_1.4.1
-DemonMae-Espira_moon_2.1.0
+DemonMae-Espira_moon_2.1.2
 DemonMae-Flicker_moon_1.1.5
 DemonMae-Gothic_Monastery_Interior_1.3.7
 DemonMae-Gray_Apartments_Interior_1.1.2
-DemonMae-Mazon_moon_2.0.0
+DemonMae-Mazon_moon_2.0.2
 DemonMae-Praetor_moon_2.0.0
 DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher_0.6.5
 DiFFoZ-CompanyCruiserFix_1.0.5
@@ -57,7 +57,7 @@ giosuel-Imperium_0.2.8_DISABLED
 Hamunii-AutoHookGenPatcher_1.0.4
 Hamunii-DetourContext_Dispose_Fix_1.0.3
 Hardy-LCMaxSoundsFix_1.2.0
-hoffr-AutoMessage_1.1.1
+hoffr-AutoMessage_2.0.0
 hoffr-Food_Scraps_And_Walkie_0.0.7
 hoffr-QuieterRobotSoundsV50Beta_0.0.1
 IAmBatby-LethalLevelLoader_1.4.8
@@ -85,7 +85,7 @@ Magic_Wesley-Fission_3.0.0
 Magic_Wesley-Gratar_4.0.0
 Magic_Wesley-Infernis_5.0.0
 Magic_Wesley-Junic_3.0.0
-Magic_Wesley-WesleysInteriors_2.0.9
+Magic_Wesley-WesleysInteriors_2.0.11
 matsuura-HealthMetrics_1.0.2
 mattymatty-AsyncLoggers_2.1.3
 MaxWasUnavailable-LethalModDataLib_1.2.2
@@ -118,7 +118,7 @@ Scintesto-Monster_Plushies_1.2.9
 scoopy-Scoopys_Variety_Mod_1.2.0
 sfDesat-Celestial_Tint_1.5.2
 sfDesat-ViewExtension_1.3.0
-ShaosilGaming-GeneralImprovements_1.4.4
+ShaosilGaming-GeneralImprovements_1.4.5
 Sigurd-CSync_5.0.1
 Skeleton_Studios-Welcome_To_Ooblterra_1.3.0
 SlushyRH-FreeeeeeMoooooons_1.0.1
@@ -146,7 +146,7 @@ XuXiaolan-XuMiscTools_1.3.1
 YaBoiDucki-men_stalker_2.5.5
 Yorimor-CustomStoryLogs_1.4.6
 Zaggy1024-OpenBodyCams_3.0.3
-Zaggy1024-PathfindingLagFix_2.1.0
+Zaggy1024-PathfindingLagFix_2.1.1
 Zaggy1024-PathfindingLib_0.0.14
 zealsprince-Locker_1.6.1
 Zigzag-ChillaxScraps_1.5.6
