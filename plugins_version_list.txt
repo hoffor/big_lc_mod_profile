@@ -41,7 +41,6 @@ DiFFoZ-LethalPerformance_0.5.1
 DockMonster-HatFortress2_1.5.0
 egg_node-Eggcessories_1.20.0
 EliteMasterEric-WackyCosmetics_2.0.0
-enmaai0737-SandStar_1.0.5
 Evaisa-FixPluginTypesSerialization_1.1.2
 Evaisa-HookGenPatcher_0.0.5
 Evaisa-LethalLib_0.16.2
@@ -60,6 +59,7 @@ Hardy-LCMaxSoundsFix_1.2.0
 hoffr-AutoMessage_2.0.0
 hoffr-Food_Scraps_And_Walkie_0.0.7
 hoffr-QuieterRobotSoundsV50Beta_0.0.1
+hoffr-SpawnWeightOverrides_1.0.0
 IAmBatby-LethalLevelLoader_1.4.8
 IAmBatby-LethalToolbox_1.0.4
 IntegrityChaos-Diversity_3.0.2
