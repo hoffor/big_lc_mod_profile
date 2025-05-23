@@ -7,7 +7,7 @@ AntlerShed-EnemySkinKit_1.3.4
 AntlerShed-EnemySkinRegistry_1.4.6
 Aper-LilSplitModel_0.1.0
 Aubarino-AubPiggybackAPI_1.0.1
-AudioKnight-StarlancerAIFix_3.9.0
+AudioKnight-StarlancerAIFix_3.9.1
 Badham_Mods-SCPFoundationDungeon_4.3.4
 BananaPuncher714-LethalQuantities_1.2.9
 Bibendi-AEIOUCompany_1.3.7
@@ -16,7 +16,7 @@ bigmcnugget-VanillaContentExpansion_0.1.8
 Bobbie-FixRPCLag_1.0.1
 Bobbie-NAudio_2.2.2
 Bobbie-UniTask_2.5.0
-BunyaPineTree-ModelReplacementAPI_2.4.16
+BunyaPineTree-ModelReplacementAPI_2.4.18
 ButteryStancakes-BarberFixes_1.3.0
 ButteryStancakes-EnemySoundFixes_1.7.0
 ButteryStancakes-MaskFixes_1.3.1
@@ -33,7 +33,7 @@ DemonMae-CTF_Face_Moon_1.1.0
 DemonMae-Espira_moon_2.2.1
 DemonMae-Flicker_moon_1.1.6
 DemonMae-Gothic_Monastery_Interior_1.5.1
-DemonMae-Gray_Apartments_Interior_1.3.5
+DemonMae-Gray_Apartments_Interior_1.3.6
 DemonMae-Mazon_moon_2.1.1
 DemonMae-Praetor_moon_2.0.2
 DemonMae-Raven_Manor_Interior_1.0.5
@@ -42,7 +42,7 @@ DemonMae-SubSystems_Interior_1.2.2
 DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher_1.0.1
 DiFFoZ-CompanyCruiserFix_1.0.5
 DiFFoZ-HarmonyXTranspilerFix_1.1.0
-DiFFoZ-LethalPerformance_1.1.4
+DiFFoZ-LethalPerformance_1.1.5
 DockMonster-HatFortress2_1.5.0
 egg_node-Eggcessories_1.20.0
 EliteMasterEric-WackyCosmetics_2.0.0
@@ -134,9 +134,10 @@ SZAKI-EnemyFix_1.0.0
 Taboo-UndetectableKitty_0.0.1
 taffyko-NiceChat_1.2.7
 tinyhoot-ShipLoot_1.1.0
-toastUnlimited-SillyGiftForMellana_1.1.4
+toastUnlimited-MellanaAndCoExtras_1.2.0
+toastUnlimited-SillyGiftForMellana_1.2.0
 Tolian-Tomb_0.3.1
-TwinDimensionalProductions-CoilHeadStare_1.0.9
+TwinDimensionalProductions-CoilHeadStare_1.1.0
 VirusTLNR-MaskedInvisFix_0.0.2
 WhiteSpike-Custom_Item_Behaviour_Library_1.2.6
 WhiteSpike-Interactive_Terminal_API_1.2.0
@@ -147,10 +148,10 @@ xilophor-LethalNetworkAPI_3.3.2
 XuXiaolan-ImmersiveScrap_1.4.2
 XuXiaolan-PjonkGoose_2.0.0
 XuXiaolan-XuMiscTools_1.3.1
-YaBoiDucki-men_stalker_2.6.0
+YaBoiDucki-men_stalker_3.0.2
 Yorimor-CustomStoryLogs_1.5.0
 Zaggy1024-OpenBodyCams_3.0.5
 Zaggy1024-PathfindingLagFix_2.2.1
-Zaggy1024-PathfindingLib_0.1.0
+Zaggy1024-PathfindingLib_0.1.1
 zealsprince-Locker_1.6.1
-Zigzag-ChillaxScraps_1.5.8
+Zigzag-ChillaxScraps_1.5.9
