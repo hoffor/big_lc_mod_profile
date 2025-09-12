@@ -390,6 +390,17 @@
           "skinDistribution": []
         },
         "mapConfigurations": []
+      },
+      {
+        "enemyId": "LethalCompany.GiantKiwi",
+        "activeSkins": [],
+        "defaultConfiguration": {
+          "mapId": "",
+          "outdoorVanillaFrequency": 0.0,
+          "indoorVanillaFrequency": 0.0,
+          "skinDistribution": []
+        },
+        "mapConfigurations": []
       }
     ]
   }
